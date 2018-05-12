@@ -1,0 +1,28 @@
+_repo: Onder-den-rook-der-mijnEene-novelle-uit-Limburg_24115
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rutten, Felix
+    birthdate: 1882
+    deathdate: 1971
+    gutenberg_agent_id: '26259'
+    url: http://www.gutenberg.org/2009/agents/26259
+description: ''
+gutenberg_issued: '2008-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24115'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- Fiction'
+- !lcc 'PT'
+title: 'Onder den rook der mijn
+
+  Eene novelle uit Limburg'
+url: http://www.gutenberg.org/ebooks/24115
